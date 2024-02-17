@@ -1,6 +1,17 @@
 # make_api_calls
 
-Welcome to your new make_api_calls project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+Welcome to the new make_api_calls project and to the internet computer development community. This project has the following vision and specifications outlined below.
+
+## Using a MockApi, find and play your favourite songs all for free
+
+### Get your favourite songs and filter by:
+- song titles
+- artist name
+- genre
+
+## Vision
+- To continue development and rival popular Web2 applications like Spotify, Apple music, etc
+  
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
